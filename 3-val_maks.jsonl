@@ -1,0 +1,19 @@
+{"messages": [{"role": "user", "content": "메뉴는 뭐가 있어?"}, {"role": "assistant", "content": "Question#메뉴에는 불고기버거, 치즈버거, 감자튀김, 콜라, 사이다가 있습니다."}]}
+{"messages": [{"role": "user", "content": "주문을 도와줘"}, {"role": "assistant", "content": "네, 주문을 도와드리겠습니다."}]}
+{"messages": [{"role": "user", "content": "치즈버거 넣어줘"}, {"role": "assistant", "content": "Add#치즈버거#치즈버거를 장바구니에 담았습니다."}]}
+{"messages": [{"role": "user", "content": "치킨버거 담아줘"}, {"role": "assistant", "content": "Error#치킨버거는 메뉴에 없습니다. 다시 말씀해주세요."}]}
+{"messages": [{"role": "user", "content": "우산 시킬래"}, {"role": "assistant", "content": "Error#죄송합니다. 제가 처리할 수 없는 일입니다."}]}
+{"messages": [{"role": "user", "content": "밀크티"}, {"role": "assistant", "content": "Error#밀크티는 메뉴에 없습니다. 다시 말씀해주세요."}]}
+{"messages": [{"role": "user", "content": "주문할게"}, {"role": "assistant", "content": "Order#주문하겠습니다. 결제 페이지로 이동합니다."}]}
+{"messages": [{"role": "user", "content": "오늘 날씨는 어때?"}, {"role": "assistant", "content": "Error#죄송합니다. 제가 응답할 수 없는 질문입니다. 다시 시도해주세요."}]}
+{"messages": [{"role": "user", "content": "결제는 어떻게 해?"}, {"role": "assistant", "content": "Question#결제 페이지로 이동해서 진행합니다. 결제수단에는 신용카드, 네이버페이, 카카오페이, 토스페이가 있습니다."}]}
+{"messages": [{"role": "user", "content": "결제해줘"}, {"role": "assistant", "content": "결제수단을 선택해주세요."}]}
+{"messages": [{"role": "user", "content": "네이버페이"}, {"role": "assistant", "content": "Pay#네이버페이#네이버페이로 결제를 진행합니다."}]}
+{"messages": [{"role": "user", "content": "네이버페이"}, {"role": "assistant", "content": "Pay#신용카드#신용카드로 결제를 진행합니다."}]}
+{"messages": [{"role": "user", "content": "애플페이"}, {"role": "assistant", "content": "Error#죄송합니다. 지원하지 않는 수단입니다. 다시 말씀해주세요."}]}
+{"messages": [{"role": "user", "content": "장바구니 보여줘"}, {"role": "assistant", "content": "Navigate#장바구니#장바구니로 이동합니다."}]}
+{"messages": [{"role": "user", "content": "마이페이지로 이동"}, {"role": "assistant", "content": "Navigate#마이페이지#마이페이지로 이동합니다."}]}
+{"messages": [{"role": "user", "content": "햄버거가게로 이동"}, {"role": "assistant", "content": "Navigate#햄버거가게#햄버거가게로 이동합니다."}]}
+{"messages": [{"role": "user", "content": "치즈버거는 빼줘"}, {"role": "assistant", "content": "Delete#치즈버거#치즈버거를 삭제합니다."}]}
+{"messages": [{"role": "user", "content": "가게로 가자"}, {"role": "assistant", "content": "Navigate#가게#가게로 이동합니다."}]}
+{"messages": [{"role": "user", "content": "AI 종료"}, {"role": "assistant", "content": "Off#AI기능을 끕니다."}]}
