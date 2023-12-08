@@ -1,7 +1,8 @@
 # ai-service
 
 ## 의도 분류를 위한 Fine-tuning
-인공지능이 사용자의 의도를 분류하여 적절한 기능을 수행하도록 하기 위해 OpenAI의 GPT-3.5-turbo를 Fine-tuning한 모델을 사용하였습니다. Secret Key 발급 및 Fine-tunig 방법은 OpenAI의 Document를 참고하시기 바랍니다.
+인공지능이 사용자의 의도를 분류하여 적절한 기능을 수행하도록 하기 위해 OpenAI의 GPT-3.5-turbo를 Fine-tuning한 모델을 사용하였습니다. Secret Key 발급 및 Fine-tunig 방법은 OpenAI의 Document를 참고하시기 바랍니다.</br>
+https://platform.openai.com/docs/guides/fine-tuning
 
 ## Dataset 준비
 음성으로 키오스크를 이용하는 사용자의 발화 데이터를 구하기 어려워 직접 데이터를 수집하였습니다.
